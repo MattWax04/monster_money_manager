@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308454467428",
+    "project_id": "monster-money-manager",
+    "storage_bucket": "monster-money-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308454467428:android:481092ae7db97451623c71",
+        "android_client_info": {
+          "package_name": "com.example.monster_money_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL-K_pXfRv62qOQpGxMEKmhgkv8kY42ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
